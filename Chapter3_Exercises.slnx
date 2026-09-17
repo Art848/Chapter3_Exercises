@@ -1,0 +1,41 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Exercise_2_26/Exercise_2_26.vcxproj" />
+  <Project Path="Exercise_2_29/Exercise_2_29.vcxproj" />
+  <Project Path="Exercise_3_11/Exercise_3_11.vcxproj" />
+  <Project Path="Exercise_3_12/Exercise_3_12.vcxproj" />
+  <Project Path="Exercise_3_13/Exercise_3_13.vcxproj" />
+  <Project Path="Exercise_3_14/Exercise_3_14.vcxproj" />
+  <Project Path="Exercise_3_16/Exercise_3_16.vcxproj" />
+  <Project Path="Exercise_3_17/Exercise_3_17.vcxproj" />
+  <Project Path="Exercise_3_18/Exercise_3_18.vcxproj" />
+  <Project Path="Exercise_3_19/Exercise_3_19.vcxproj" />
+  <Project Path="Exercise_3_20/Exercise_3_20.vcxproj" />
+  <Project Path="Exercise_3_21/Exercise_3_21.vcxproj" />
+  <Project Path="Exercise_3_22/Exercise_3_22.vcxproj" />
+  <Project Path="Exercise_3_23/Exercise_3_23.vcxproj" />
+  <Project Path="Exercise_3_25/Exercise_3_25.vcxproj" />
+  <Project Path="Exercise_3_27/Exercise_3_27.vcxproj" />
+  <Project Path="Exercise_3_28/Exercise_3_28.vcxproj" />
+  <Project Path="Exercise_3_30/Exercise_3_30.vcxproj" />
+  <Project Path="Exercise_3_31/Exercise_3_31.vcxproj" />
+  <Project Path="Exercise_3_32/Exercise_3_32.vcxproj" />
+  <Project Path="Exercise_3_33/Exercise_3_33.vcxproj" />
+  <Project Path="Exercise_3_34/Exercise_3_34.vcxproj" />
+  <Project Path="Exercise_3_35/Exercise_3_35.vcxproj" />
+  <Project Path="Exercise_3_36/Exercise_3_36.vcxproj" />
+  <Project Path="Exercise_3_37/Exercise_3_37.vcxproj" />
+  <Project Path="Exercise_3_38/Exercise_3_38.vcxproj" />
+  <Project Path="Exercise_3_40/Exercise_3_40.vcxproj" />
+  <Project Path="Exercise_3_41/Exercise_3_41.vcxproj" />
+  <Project Path="Exercise_3_45/Exercise_3_45.vcxproj" />
+  <Project Path="Exercise_3_46/Exercise_3_46.vcxproj" />
+  <Project Path="Exercise_3_47/Exercise_3_47.vcxproj" />
+  <Project Path="Exercise_3_48/Exercise_3_48.vcxproj" />
+  <Project Path="Exercise_3_55/Exercise_3_55.vcxproj" />
+  <Project Path="Exercise_3_58/Exercise_3_58.vcxproj" />
+  <Project Path="Exercise_3_59/Exercise_3_59.vcxproj" />
+</Solution>

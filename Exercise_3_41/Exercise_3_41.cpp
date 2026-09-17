@@ -39,4 +39,3 @@ int main()
 
     cout << "Fibonacci number: " << fib;
 }
-
